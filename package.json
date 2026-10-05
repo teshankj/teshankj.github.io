@@ -24,5 +24,9 @@
 	"imports": {
 		"#lib": "./src/lib/index.js",
 		"#lib/*": "./src/lib/*"
+	},
+	"dependencies": {
+		"@iconify-json/simple-icons": "^1.2.98",
+		"@iconify/svelte": "^5.2.2"
 	}
 }
